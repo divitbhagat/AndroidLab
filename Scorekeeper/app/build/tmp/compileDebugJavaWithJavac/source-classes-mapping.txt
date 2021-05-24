@@ -1,0 +1,4 @@
+com/example/scorekeeper/BuildConfig.java
+ com.example.scorekeeper.BuildConfig
+com/example/scorekeeper/MainActivity.java
+ com.example.scorekeeper.MainActivity

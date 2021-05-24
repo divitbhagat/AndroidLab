@@ -1,0 +1,13 @@
+com/example/tabexperiment/PagerAdapter.java
+ com.example.tabexperiment.PagerAdapter
+com/example/tabexperiment/BuildConfig.java
+ com.example.tabexperiment.BuildConfig
+com/example/tabexperiment/TabFragment1.java
+ com.example.tabexperiment.TabFragment1
+com/example/tabexperiment/MainActivity.java
+ com.example.tabexperiment.MainActivity
+ com.example.tabexperiment.MainActivity$1
+com/example/tabexperiment/TabFragment2.java
+ com.example.tabexperiment.TabFragment2
+com/example/tabexperiment/TabFragment3.java
+ com.example.tabexperiment.TabFragment3

@@ -1,0 +1,6 @@
+com/example/dialogforalert/BuildConfig.java
+ com.example.dialogforalert.BuildConfig
+com/example/dialogforalert/MainActivity.java
+ com.example.dialogforalert.MainActivity
+ com.example.dialogforalert.MainActivity$1
+ com.example.dialogforalert.MainActivity$2

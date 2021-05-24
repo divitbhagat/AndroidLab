@@ -1,0 +1,24 @@
+com/example/recyclerview/SecondFragment.java
+ com.example.recyclerview.SecondFragment
+ com.example.recyclerview.SecondFragment$1
+com/example/recyclerview/databinding/ContentMainBinding.java
+ com.example.recyclerview.databinding.ContentMainBinding
+com/example/recyclerview/databinding/ActivityMainBinding.java
+ com.example.recyclerview.databinding.ActivityMainBinding
+com/example/recyclerview/BuildConfig.java
+ com.example.recyclerview.BuildConfig
+com/example/recyclerview/databinding/FragmentFirstBinding.java
+ com.example.recyclerview.databinding.FragmentFirstBinding
+com/example/recyclerview/databinding/WordlistItemBinding.java
+ com.example.recyclerview.databinding.WordlistItemBinding
+com/example/recyclerview/FirstFragment.java
+ com.example.recyclerview.FirstFragment
+ com.example.recyclerview.FirstFragment$1
+com/example/recyclerview/databinding/FragmentSecondBinding.java
+ com.example.recyclerview.databinding.FragmentSecondBinding
+com/example/recyclerview/WordListAdapter.java
+ com.example.recyclerview.WordListAdapter
+ com.example.recyclerview.WordListAdapter$WordViewHolder
+com/example/recyclerview/MainActivity.java
+ com.example.recyclerview.MainActivity
+ com.example.recyclerview.MainActivity$1

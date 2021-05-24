@@ -1,0 +1,23 @@
+com/example/droidcafe/databinding/FragmentFirstBinding.java
+ com.example.droidcafe.databinding.FragmentFirstBinding
+com/example/droidcafe/databinding/ActivityMainBinding.java
+ com.example.droidcafe.databinding.ActivityMainBinding
+com/example/droidcafe/BuildConfig.java
+ com.example.droidcafe.BuildConfig
+com/example/droidcafe/databinding/ContentMainBinding.java
+ com.example.droidcafe.databinding.ContentMainBinding
+com/example/droidcafe/OrderActivity.java
+ com.example.droidcafe.OrderActivity
+com/example/droidcafe/databinding/FragmentSecondBinding.java
+ com.example.droidcafe.databinding.FragmentSecondBinding
+com/example/droidcafe/SecondFragment.java
+ com.example.droidcafe.SecondFragment
+ com.example.droidcafe.SecondFragment$1
+com/example/droidcafe/MainActivity.java
+ com.example.droidcafe.MainActivity
+ com.example.droidcafe.MainActivity$1
+com/example/droidcafe/databinding/ActivityOrderBinding.java
+ com.example.droidcafe.databinding.ActivityOrderBinding
+com/example/droidcafe/FirstFragment.java
+ com.example.droidcafe.FirstFragment
+ com.example.droidcafe.FirstFragment$1

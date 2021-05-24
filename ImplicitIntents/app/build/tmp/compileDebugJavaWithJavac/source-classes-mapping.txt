@@ -1,0 +1,4 @@
+com/example/implicitintents/BuildConfig.java
+ com.example.implicitintents.BuildConfig
+com/example/implicitintents/MainActivity.java
+ com.example.implicitintents.MainActivity
